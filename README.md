@@ -16,7 +16,7 @@ Each skill is a self-contained folder: a `SKILL.md` Claude Code reads, and a `RE
 Skills are picked up from `~/.claude/skills/` (available everywhere) or `.claude/skills/` inside a project (that project only).
 
 ```bash
-git clone https://github.com/nestix6/claude-skills.git
+git clone https://github.com/prepkovsky/claude-skills.git
 cd claude-skills
 
 # all of them, for every project
@@ -40,7 +40,7 @@ Contributions and forks are welcome. Open a PR with a new skill or an improvemen
 
 ## Issues
 
-Found something broken, or a skill that misfires? Report it in [Issues](https://github.com/nestix6/claude-skills/issues).
+Found something broken, or a skill that misfires? Report it in [Issues](https://github.com/prepkovsky/claude-skills/issues).
 
 ## License
 
